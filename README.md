@@ -1,5 +1,7 @@
 # Mision Tic 2022 CICLO 3 
 
+![](https://talentodigital.mintic.gov.co/734/channels-633_logo_talento_digital.svg)
+
 Se requiere de un equipo de trabajo para trabajar la metodologia agil Scrum durante este tercer ciclo para la elaboracion de un proyecto web en donde se implemente las tecnologias aprendida durante el curso
 
 ## Equipo de Trabajo
