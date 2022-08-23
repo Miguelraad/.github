@@ -1,6 +1,6 @@
 # Mision Tic 2022 CICLO 3 
 
-![](https://talentodigital.mintic.gov.co/734/channels-633_logo_talento_digital.svg)
+![](https://th.bing.com/th/id/OIP.kPIP-kiQRVFLfmnWUXOPawHaHa?pid=ImgDet&rs=1) 
 
 Se requiere de un equipo de trabajo para trabajar la metodologia agil Scrum durante este tercer ciclo para la elaboracion de un proyecto web en donde se implemente las tecnologias aprendida durante el curso
 
@@ -19,16 +19,11 @@ YEYSON STEVEN OCHOA TAMAYO
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 
-**Table of Contents**
+![](https://talentodigital.mintic.gov.co/734/channels-633_logo_talento_digital.svg) 
 
-[TOCM]
-
-[TOC]
-
-
-                    
+    
 ## Roles 
-| Integrante  | Roles  | Correo Electronico |
+| Integrante  | Rol Especifico  | Correo Electronico |
 | :------------ |:---------------:| -----:|                    
 |David Tolosa  | Lider Equipo | davito022196@gmail.com
 |Jean Ceron  | Gestor Base Datos |sebasceron19@gmail.com
